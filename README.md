@@ -1,4 +1,5 @@
 # Projeto em django
 
--  sistema de cadasto 
--  treinamento de logíca 
+-  Sistema de cadasto.
+-  Treinamento de lógica.
+-  Tendo boas práticas de programação.
